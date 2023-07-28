@@ -10,7 +10,7 @@ profile_picture:
   <h2> Bienvenidos! </h2>
   I'm TaeYoung Kim, a master's student in Artificial Intelligence. <br>
   My research / job interests are Recommendation Systems, Natural Language Processing, and applications with graphs.<br> 
-  More information can be found on my <a href='https://drive.google.com/file/d/1DTfricY3LXzKVwJ5aJQ6_XxHFTP2_oZA/view?usp=drive_link'>CV</a> and <a href='https://drive.google.com/file/d/15iil7G6HdE6HJ-aoqTwcDReArtP_7SRy/view?usp=drive_link'>technical portfolio</a>.
+  More information can be found on my <a href='https://drive.google.com/file/d/1DTfricY3LXzKVwJ5aJQ6_XxHFTP2_oZA/view?usp=drive_link'>CV</a> and <a href='https://drive.google.com/file/d/1VInq5ZS1LcheKBlYQbeKw8hf59oacd19/view?usp=sharing'>technical portfolio</a>.
 </p>
 
 <p>
