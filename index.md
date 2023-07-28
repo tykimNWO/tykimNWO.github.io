@@ -46,7 +46,8 @@ profile_picture:
 
 <p>Bottom-up Propagation of Hierarchical Dependency for Multi-behavior Recommendation<br>
 <i>Information Sciences(Under Review)</i><br>
-<b>TaeYoung Kim</b>, Hyungjun Yang, Gayeon Park, Seungmi Lee, and Kyong-Ho Lee
+<b>TaeYoung Kim</b>, Hyungjun Yang, Gayeon Park, Seungmi Lee, and Kyong-Ho Lee<br>
+Code: <a href='https://github.com/tykimNWO/BotPHD'>Github</a>
 
 <p>Granular Intents Learning via Mutual Information Maximization for Knowledge-aware Recommendation<br>
 <i>CIKM(Under Review)</i><br>
